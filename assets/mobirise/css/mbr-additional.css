@@ -1640,6 +1640,18 @@ body {
 .cid-rrX32ALMwW .rev i {
   color: #0a1c44;
 }
+#custom-html-b {
+  /* Type valid CSS here */
+}
+#custom-html-b div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-b p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-rrX34cwUfg {
   padding-top: 45px;
   padding-bottom: 45px;
