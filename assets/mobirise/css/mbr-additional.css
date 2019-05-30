@@ -1528,7 +1528,7 @@ body {
   }
 }
 .cid-rrX3005xlH {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #0a1c44;
 }
@@ -1560,9 +1560,18 @@ body {
   padding: 0;
   margin: auto;
 }
-.cid-rrX32ALMwW {
+.cid-rrXspRtmUx {
   padding-top: 60px;
   padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rrXspRtmUx .mbr-text,
+.cid-rrXspRtmUx blockquote {
+  color: #767676;
+}
+.cid-rrX32ALMwW {
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-color: #f5f7fa;
 }
 .cid-rrX32ALMwW .card-wrapper {
